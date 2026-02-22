@@ -12,10 +12,10 @@ a structured data cleaning process is essential.
 Data Cleaning Strategy
 The cleaning process follows these stages:
 
-Structural Cleaning (duplicates, formatting issues)
-Numeric Standardization (currency symbols, type conversion)
-Missing Value Handling
-Business Rule Validation
-Text Standardization (phone, email)
-Date Normalization
+Structural Cleaning (duplicates, formatting issues)<br>
+Numeric Standardization (currency symbols, type conversion)<br>
+Missing Value Handling<br>
+Business Rule Validation<br>
+Text Standardization (phone, email)<br>
+Date Normalization<br>
 Final Data Quality Assessment
