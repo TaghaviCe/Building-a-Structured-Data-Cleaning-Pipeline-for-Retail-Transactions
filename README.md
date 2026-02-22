@@ -7,7 +7,8 @@ Inconsistent formats, invalid entries, missing values, and logical errors can se
 Before any modeling or visualization
 a structured data cleaning process is essential.
 
-This notebook demonstrates how to transform a messy retail transaction dataset into a reliable and analysis-ready dataset using a systematic pipeline approach.
+![تیک](https://img.shields.io/badge/Done-%E2%9C%94-brightgreen)
+  This notebook demonstrates how to transform a messy retail transaction dataset into a reliable and analysis-ready dataset using a systematic pipeline approach.
 
 Data Cleaning Strategy
 The cleaning process follows these stages:
